@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MarkdownSettings">
+    <option name="customStylesheetText" value="img[src*='#left'] {&#10;    float: left;&#10;}&#10;img[src*='#right'] {&#10;    float: right;&#10;}&#10;img[src*='#center'] {&#10;    display: block;&#10;    margin: auto;&#10;}" />
+    <enabledExtensions>
+      <entry key="MermaidLanguageExtension" value="false" />
+      <entry key="PlantUMLLanguageExtension" value="false" />
+    </enabledExtensions>
+  </component>
+</project>
