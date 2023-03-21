@@ -1,4 +1,4 @@
-# (n)ear (e)arth (o)bject Exploration
+# (n)ear-(E)arth (o)bjects 
 Search for and explore close approaches of near-Earth objects (NEOs), 
 using data from NASA/JPL's Center for Near-Earth Object Studies.
 
